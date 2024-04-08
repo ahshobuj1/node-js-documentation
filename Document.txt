@@ -1,0 +1,16 @@
+Why Node.js ?
+
+    -> Easy to learn.
+    -> It uses asynchronous programming! Which is different    than others like - PHP ,ASP .
+    -> It can help us to create, open, read, write, delete and close files on the server.
+    -> Used for collecting from data
+    -> Node.js can add, delete, modify data in your database.
+
+
+Node Modules
+
+    -> Module is set of function. (think about js libraries such as math).
+    ->There are 3 types of Node module .
+        1. Local Modules (Own created Modules)
+        2. Built-in Modules (Node.js own Modules) - http, url,patch, fs .
+        3. External Modules (Managed by npm)(Third party Modules)
